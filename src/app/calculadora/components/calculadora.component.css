@@ -13,3 +13,40 @@
 .col-xs-3, .col-xs-9 {
 	padding: 0px;
 }
+
+.col-9, .col-3{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.btncolor{
+    background-color: lightgrey;
+    color:darkslategray;
+    border-radius: 0;
+    border: 1px solid dimgray;
+}
+
+.btncolorYellow{
+    background-color: lightgrey;
+    color:darkslategray;
+    border-radius: 0;
+    border: 1px solid #c6cf23;
+}
+
+.btncolorRed{
+    background-color: lightgrey;
+    color:darkslategray;
+    border-radius: 0;
+    border: 1px solid  #cf2329;
+}
+
+.btncolorGreen{
+    background-color: lightgrey;
+    color:darkslategray;
+    border-radius: 0;
+    border: 1px solid #289443;
+}
+
+.bg-color{
+    background-color: lightgray;
+}
